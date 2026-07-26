@@ -223,7 +223,6 @@ hisat2 \
 * The generated index can be reused for multiple RNA-Seq datasets, eliminating the need to rebuild it for every analysis.
 * Large genomes require substantial computational resources, and index generation time depends on genome size and available hardware.
 
-This version is suitable for inclusion in a GitHub repository, laboratory documentation, or an RNA-Seq workflow manual.
 
 
 
